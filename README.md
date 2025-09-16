@@ -22,14 +22,14 @@ It helps strengthen connections, support career development, and make it easier 
 ---
 
 ## 📑 Project Documentation
-Supporting documents are available in the [`/docs`](docs/) folder:
+Supporting documents are available in the [`/docs`](docs) folder:
 
-- [User Guide](docs/01_User_Guide.pdf)  
-- [Website Specifications](docs/02_Website_Specifications.pdf)  
-- [Solution Pitch](docs/03_Solution_Pitch.pdf)  
-- [Wireframe & Work Process](docs/04_Wireframe_WorkProcess.pdf)  
+- [User Guide](docs/01_User_Guide)  
+- [Website Specifications](docs/02_Product_Specifications)  
+- [Solution Pitch](docs/03_Solution_Pitch)  
+- [Wireframe & Work Process](docs/04_Wireframe_WorkProcess)  
 
----
+
 
 ## 🛠️ Team & Process
 - Developed as part of the **FTU App Team initiative**.  
