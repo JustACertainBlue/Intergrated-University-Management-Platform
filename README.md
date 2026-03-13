@@ -16,7 +16,6 @@ It helps strengthen connections, support career development, and make it easier 
 ## 📂 Prototypes & Demos
 👉 Explore our interactive prototypes:  
 
-- 🌐 [Website Prototype](https://fic-ftu.naucode.site/)  
 - 📱 [Glide Webapp Prototype](https://k62ftus-app-76s6.glide.page/)  
 
 ---
